@@ -1,0 +1,71 @@
+* {
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    text-align: center;
+    margin: auto;
+    background-color: rgb(30, 30, 221);
+    /* overflow-y: auto; */
+}
+.texto {
+    text-align: center;
+   
+    /* box-sizing: border-box; */
+}
+.nav {
+    margin: auto;
+    background-color: rgb(30, 106, 221);
+    /* overflow-y: auto; */
+   
+}
+
+a {
+    padding: 15px;
+    margin: auto;
+    color: aliceblue; 
+
+}
+
+.footercolor {
+    margin: auto;
+    background-color: black;
+    }
+
+    h2, h3, ul {
+        color: white;
+    }
+
+    .caja{
+        /* position: relative;  */
+        text-align:center;  
+        padding: 5px; 
+        /* border: 1px solid black;  */
+    }
+
+    .nombre {
+        /* position: absolute; */
+        width: 50%;
+        display: inline-block;
+        background-color: green;
+        border: 1px solid black; 
+        
+    }
+    
+    .email{
+        /* position: absolute; */
+        width: 50%;
+        display: inline-block;
+        background-color: blue;
+        border: 1px solid black; 
+    }
+    
+    .contacto{
+        display: inline-block;
+        /* padding: 5%; */
+        /* border: 1px solid black;  */
+    }
